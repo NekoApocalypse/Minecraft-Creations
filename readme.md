@@ -12,19 +12,19 @@ A place for prototype Minecraft creations.
 
 **Front View**  
 
-![Front View](img/2015-12-10_10\.49\.06.png)
+![Front View](img/2015-12-10_10.49.06.png)
 
 **Side View**
 
-![Side View](img/2015-12-10_10\.49\.24.png)
+![Side View](img/2015-12-10_10.49.24.png)
 
 **Rear View**
 
-![Rear View](img/2015-12-10_10\.49\.37.png)
+![Rear View](img/2015-12-10_10.49.37.png)
 
 **Current State** 
 
-![Alternate Leg](img/2015-12-10_10\.49\.57.png)
+![Alternate Leg](img/2015-12-10_10.49.57.png)
 
 Pending Work:
 
