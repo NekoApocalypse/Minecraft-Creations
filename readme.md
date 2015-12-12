@@ -8,45 +8,58 @@ A place for prototype Minecraft creations.
 
 ## Cat Destroyer
 
-### Progress Dec.09.2015
+### Progress Dec.10.2015
 
-**Front View**  
+**Front View: Engine & Wings in progress**
+![Front View](img/2015-12-12_12.45.21.png)
 
-![Front View](img/2015-12-10_10.49.06.png)
+**New Addition: Engine & Spotlight**
+![Top](img/2015-12-12_12.45.46.png)
 
-**Side View**
+**Ground View**
+![Ground](img/2015-12-12_12.45.59.png)
 
-![Side View](img/2015-12-10_10.49.24.png)
+**Side View: Engine unfinished**
+![side](img/2015-12-12_12.46.28.png)
 
-**Rear View**
+> Pending Wrok:
 
-![Rear View](img/2015-12-10_10.49.37.png)
+- Finish Engine
 
-**Current State** 
+- Attach Wings
 
-![Alternate Leg](img/2015-12-10_10.49.57.png)
+- Bottom Engine(Planned)
 
-Pending Work:
-
-- Improve Leg Design
-
-- Modify Backpack
-
-- Change Hull Material(Optional)
-
-- Imrove Mouth Design(Optional)
+- Improve Mouth Design(Optional)
 
 - Decorate Hull
 
-Optional Accessories:
+### Progress Dec.09.2015
 
-- Maintainance Tower
+**Front View**  
+![Front View](img/2015-12-10_10.49.06.png)
 
-- Fuel Tanks
+**Side View**
+![Side View](img/2015-12-10_10.49.24.png)
 
-Strentch Goals:
+**Rear View**
+![Rear View](img/2015-12-10_10.49.37.png)
 
-- Flight Mode
+**Current State** 
+![Alternate Leg](img/2015-12-10_10.49.57.png)
 
-- Real Cats Inside!
+> Pending Work:
+>> Improve Leg Design
+>> Modify Backpack
+Change Hull Material(Optional)
+Imrove Mouth Design(Optional)
+Decorate Hull
+
+> Optional Accessories:
+Maintainance Tower
+Fuel Tanks
+
+> Strentch Goals:
+Flight Mode
+Real Cats Inside!
 
