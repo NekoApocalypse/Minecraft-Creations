@@ -23,16 +23,11 @@ A place for prototype Minecraft creations.
 ![side](img/2015-12-12_12.46.28.png)
 
 > Pending Wrok:
-
-- Finish Engine
-
-- Attach Wings
-
-- Bottom Engine(Planned)
-
-- Improve Mouth Design(Optional)
-
-- Decorate Hull
+> - Finish Engine
+> - Attach Wings
+> - Bottom Engine(Planned)
+> - Improve Mouth Design(Optional)
+> - Decorate Hull
 
 ### Progress Dec.09.2015
 
